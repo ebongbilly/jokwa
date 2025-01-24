@@ -139,7 +139,7 @@ Contributions are welcome! Here's how you can help:
 
 ##License
 
-This project is licensed under the MIT License.
+This project is licensed under [GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1)
 
 ##Contact
 
